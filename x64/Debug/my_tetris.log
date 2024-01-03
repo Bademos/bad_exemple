@@ -1,0 +1,15 @@
+﻿  Game.cpp
+C:\Users\user\Desktop\my_tetris\Game.h(60,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Game.cpp')
+  
+C:\Users\user\Desktop\my_tetris\Game.cpp(118,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\Desktop\my_tetris\Game.cpp(183,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\Desktop\my_tetris\Game.cpp(206,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\user\Desktop\my_tetris\Game.cpp(276,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\user\Desktop\my_tetris\Game.cpp(378,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\my_tetris\Game.cpp(378,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\my_tetris\Game.cpp(388,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\my_tetris\Game.cpp(388,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  my_tetris.vcxproj -> C:\Users\user\Desktop\my_tetris\x64\Debug\my_tetris.exe
+  C:\Users\user\Desktop\my_tetris\packages\SFML-cpp.redist.2.5.1.1\build\native\bin\x64\Debug\openal32.dll
+  Скопировано файлов: 1.
